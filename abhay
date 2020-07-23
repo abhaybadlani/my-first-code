@@ -1,0 +1,6 @@
+echo "# my-first-code" >> README.md
+git init
+git add README.md
+git commit -m "Well Tried"
+git remote add origin https://github.com/abhaybadlani/my-first-code.git
+git push -u origin master
